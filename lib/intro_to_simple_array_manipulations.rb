@@ -28,5 +28,5 @@ def shift_with_args(array)
   puts ".................."
   puts  array
   puts ".................."
-  puts array.shift(3)
+  puts array.shift(1)
 end
