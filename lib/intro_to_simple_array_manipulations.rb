@@ -22,6 +22,6 @@ def using_shift(array)
 end
 
 def shift_with_args(array)
-  #two_less_args_array = array.shift(2)
-  array.shift(2)
+  puts two_less_args_array = array.shift(2)
+  puts array.shift(2)
 end
