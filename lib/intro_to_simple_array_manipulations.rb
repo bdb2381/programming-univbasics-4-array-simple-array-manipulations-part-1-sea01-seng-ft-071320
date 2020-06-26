@@ -27,5 +27,5 @@ def shift_with_args(array)
   puts two_less_args_array = array.shift(3)
   puts ".................."
 
-  puts array.shift(2)
+  puts array.shift(3)
 end
