@@ -12,3 +12,8 @@ def using_pop (array)
   new_array = array.pop
   return new_array
 end
+
+def pop_with_args(array)
+  two_less_args_array = array.pop(-1)
+
+end
